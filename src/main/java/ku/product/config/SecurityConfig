@@ -1,0 +1,4 @@
+package ku.product.config;
+
+public class SecurityConfig {
+}
